@@ -18,3 +18,8 @@ The system services and goals are established by consultation with system user. 
 
 Software Requirements:
 o Windows XP/7/10 operating system. o JRE and JDK. o MySQL server (WAMP or XAMPP or any)
+
+![WhatsApp Image 2020-05-15 at 1 01 32 PM](https://user-images.githubusercontent.com/57304666/82078198-c01fb200-96ae-11ea-8150-9b1794050008.jpeg)
+![WhatsApp Image 2020-05-15 at 1 01 33 PM (1)](https://user-images.githubusercontent.com/57304666/82078199-c01fb200-96ae-11ea-9b0f-1ec40097baf1.jpeg)
+![WhatsApp Image 2020-05-15 at 1 01 32 PM (1)](https://user-images.githubusercontent.com/57304666/82078202-c01fb200-96ae-11ea-9ca4-8693987f9850.jpeg)
+![WhatsApp Image 2020-05-15 at 1 01 32 PM (3)](https://user-images.githubusercontent.com/57304666/82078204-c0b84880-96ae-11ea-84aa-12ec934fe8d0.jpeg)
